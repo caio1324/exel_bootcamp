@@ -37,8 +37,8 @@ Inclui:
 
 ## 💻 Tecnologias Utilizadas
 
-| 🧩 Excel | 🤖 Copilot | 🔌 Power Query |
-|:--------:|:----------:|:--------------:|
+| 🧩 Excel | 🤖 Copilot |
+|:--------:|:----------:|
 
 ---
 
