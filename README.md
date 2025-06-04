@@ -35,7 +35,7 @@ Inclui:
 
 ---
 
-### 🐺 XBOX Dashboard
+### 💹 XBOX Dashboard
 
 Dashboard de **vendas de assinaturas** para apresentar informações de forma dinâmica e clara.  
 Permite:
@@ -51,7 +51,7 @@ Permite:
 
 ---
 
-**Concluido na plataforma da DIO e promovido pela Santander Open Academy**
+Concluido na plataforma da DIO e promovido pela Santander Open Academy
 
 ---
 
