@@ -7,7 +7,7 @@ Uma jornada completa para aprender **Excel do zero**, dominando as principais f�
 **🧠 Conteúdo dos cursos:**
 - 🔄 Tabelas dinâmicas, formatação e validações de dados;
 - ➕ Fórmulas matemáticas, de busca, de texto, de data e hora;
-- 📊 Criação de dashboards, processos de ETL, consultas SQL e análise de bases de dados.
+- 📊 Criação de dashboards, processos de ETL, consultas SQL e análise de bases de dados com IA.
 
 **⏱️ Carga horária:** `26h`
 
@@ -31,7 +31,16 @@ Planilha de **controle financeiro** para facilitar a organização de dados para
 Inclui:
 - 🧾 Formulários para dados pessoais
 - 📉 Registro de despesas
-- 📈 Ganhos mensais
+- 📈 Ganhos anuais
+
+---
+
+### 🐺 XBOX Dashboard
+
+Dashboard de **vendas de assinaturas** para apresentar informações de forma dinâmica e clara.  
+Permite:
+- 📊 Avaliar e comparar informações  
+- 📈 Ter uma visão clara para a tomada de descisões
 
 ---
 
@@ -39,6 +48,10 @@ Inclui:
 
 | 🧩 Excel | 🤖 Copilot |
 |:--------:|:----------:|
+
+---
+
+**Concluido na plataforma da DIO e promovido pela Santander Open Academy**
 
 ---
 
